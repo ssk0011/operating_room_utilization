@@ -1,5 +1,7 @@
 # operating_room_utilization
-Testing analysis of fake operating room dataset for understanding of CPT codes and determining actionable insights.
+Testing analysis of synthetic operating room dataset for understanding of CPT codes and determining actionable insights.
+
+Source: https://www.kaggle.com/datasets/drjfalk/operating-room-utilization
 
 ## Context
 The data in question detailed schedules for operations in various services for a hypothetical hospital setting, ranging from podiatry to orthopedics. The goal was to determine ways to optimize usage of the OR, i.e. find the outliers. This code could also form the basis for future predictive models.
